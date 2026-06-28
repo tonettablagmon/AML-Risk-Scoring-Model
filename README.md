@@ -79,7 +79,7 @@ To build a machine learning model that predicts the probability of suspicious ac
 ![Confusion Matrix](images/confusion_matrix.png)
 
 ### 🔹 SHAP
-![SHAP](images/confusion_matrix.png)
+![SHAP](images/shap_summary.png)
 
 ---
 
